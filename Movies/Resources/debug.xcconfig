@@ -1,0 +1,14 @@
+//
+//  debug.xcconfig
+//  Movies
+//
+//  Created by Nilesh Prajapati on 2023/09/01.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//Customizable Section
+RAPIDAPI_KEY = 2010c03b02msha41f25938ed042ep1be081jsn07103b83a5cb
+RAPIDAPI_HOST = imdb-top-100-movies.p.rapidapi.com
+RAPIDAPI_BASE_URL = https:/${}/imdb-top-100-movies.p.rapidapi.com/

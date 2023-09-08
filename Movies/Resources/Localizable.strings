@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Movies
+
+  Created by Nilesh Prajapati on 2023/09/01.
+  
+*/
+
+//Movies list
+"MoviesListTitle" = "Movies";
+"MoviesListMenuTitle" = "Sort";
+"MoviesListMenu1Title" = "Title";
+"MoviesListMenu2Title" = "Rating";
+"MoviesListMenu3Title" = "Rank";
+"MoviesListMenuCancel" = "Cancel";
+"MoviesListActivityIndicatorTitle" = "Loading...";
+
+//Movie Details
+"MovieDetailsTitle" = "Details";
+"MovieDetailsTitleText" = "Details";
+"MovieDetailsRankTitleText" = "Rank";
+"MovieDetailsGenreTitleText" = "Genre";
+"MovieDetailsDirectorTitleText" = "Director";
+"MovieDetailsWritersTitleText" = "Writers";
+"MovieDetailsShortDescriptionTitleText" = "Short Description";
